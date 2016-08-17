@@ -2,6 +2,7 @@
 shader transitions in Unity3D.
 
 ## This was programmed in Unity3D version 5.3.5, and Visual Studio 2015.
+There is a little more info about this on my [website](http://cynicalstudios.com/transitions-and-shaders-in-unity3d/)
 
 To use this package you can clone down the repository
 ```
